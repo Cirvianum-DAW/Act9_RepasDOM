@@ -1,0 +1,15 @@
+#stage {
+  position: relative;
+  height: 400px;
+  width: 400px;
+  border: 1px solid black;
+}
+
+#ball {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 50px;
+  width: 50px;
+  background-color: red;
+}

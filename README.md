@@ -177,3 +177,5 @@ Pots veure una demo en la següent imatge:
 Genera un array amb el nom de diferents imatges que tinguis al teu projecte. Mostra aquestes imatges en una pàgina web. Afegeix un input de text i un botó per filtrar les imatges per nom. Si l'usuari escriu "gat", només es mostraran les imatges que continguin la paraula "gat" al seu nom o a l'atribut `alt`. Demo:
 
 ![Demo](/assets/filtre.gif)
+
+Tens a disposició un script `image_fetch.js` que et permetrà fer una crida a l'API d'Unsplash per obtenir imatges aleatòries. T'hauràs de crear un compte per obtenir una clau d'accés a l'API. Pots trobar més informació a la [documentació](https://unsplash.com/documentation).
